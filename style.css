@@ -1,0 +1,19 @@
+.heading
+{
+    color: aliceblue;
+    border: 5px, solid, white;
+    background-color: rgb(75, 156, 255);
+    font-size: 50px;
+}
+
+button{
+    font-size: 50px;
+}
+.modal-dialog{
+    width: 90%;
+}
+footer{
+    bottom: 0;
+    position: sticky;
+    color: aliceblue;
+}
